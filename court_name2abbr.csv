@@ -1,0 +1,94 @@
+,court_name,abbr,district
+44,"United States Bankruptcy Court, M.D. Alabama",almb,"{'alabama', 'middle'}"
+45,"United States Bankruptcy Court, N.D. Alabama",alnb,"{'alabama', 'northern'}"
+46,"United States Bankruptcy Court, S.D. Alabama",alsb,"{'alabama', 'southern'}"
+47,"United States Bankruptcy Court, D. Alaska",akb,{'alaska'}
+48,"United States Bankruptcy Court, D. Arizona",arb,{'arizona'}
+49,"United States Bankruptcy Court, E.D. Arkansas",areb,"{'arkansas', 'eastern'}"
+50,"United States Bankruptcy Court, W.D. Arkansas",arwb,"{'western', 'arkansas'}"
+51,"United States Bankruptcy Court, C.D. California",cacb,"{'central', 'california'}"
+52,"United States Bankruptcy Court, E.D. California",caeb,"{'california', 'eastern'}"
+53,"United States Bankruptcy Court, N.D. California",canb,"{'california', 'northern'}"
+54,"United States Bankruptcy Court, S.D. California",casb,"{'california', 'southern'}"
+55,"United States Bankruptcy Court, D. Colorado",cob,{'colorado'}
+56,"United States Bankruptcy Court, D. Connecticut",ctb,{'connecticut'}
+57,"United States Bankruptcy Court, D. Delaware",deb,{'delaware'}
+58,"United States Bankruptcy Court, District of Columbia",dcb,{'columbia'}
+59,"United States Bankruptcy Court, M.D. Florida",flmb,"{'florida', 'middle'}"
+60,"United States Bankruptcy Court, N.D. Florida",flnb,"{'florida', 'northern'}"
+61,"United States Bankruptcy Court, S.D. Florida.",flsb,"{'florida', 'southern'}"
+62,"United States Bankruptcy Court, M.D. Georgia",gamb,"{'middle', 'georgia'}"
+63,"United States Bankruptcy Court, N.D. Georgia",ganb,"{'northern', 'georgia'}"
+64,"United States Bankruptcy Court, S.D. Georgia",gasb,"{'georgia', 'southern'}"
+65,"United States Bankruptcy Court, D. Hawaii",hib,{'hawaii'}
+66,"United States Bankruptcy Court, D. Idaho",idb,{'idaho'}
+67,"United States Bankruptcy Court, C.D. Illinois",ilcb,"{'central', 'illinois'}"
+68,"United States Bankruptcy Court, N.D. Illinois",ilnb,"{'northern', 'illinois'}"
+69,"United States Bankruptcy Court, S.D. Illinois",ilsb,"{'illinois', 'southern'}"
+70,"United States Bankruptcy Court, N.D. Indiana",innb,"{'indiana', 'northern'}"
+71,"United States Bankruptcy Court, S.D. Indiana",insb,"{'indiana', 'southern'}"
+72,"United States Bankruptcy Court, N.D. Iowa",ianb,"{'iowa', 'northern'}"
+73,"United States Bankruptcy Court, S.D. Iowa",iasb,"{'iowa', 'southern'}"
+74,"United States Bankruptcy Court, D. Kansas",ksb,{'kansas'}
+75,"United States Bankruptcy Court, E.D. Kentucky",kyeb,"{'kentucky', 'eastern'}"
+76,"United States Bankruptcy Court, W.D. Kentucky",kywb,"{'western', 'kentucky'}"
+77,"United States Bankruptcy Court, E.D. Louisiana",laeb,"{'louisiana', 'eastern'}"
+78,"United States Bankruptcy Court, M.D. Louisiana",lamb,"{'louisiana', 'middle'}"
+79,"United States Bankruptcy Court, W.D. Louisiana",lawb,"{'western', 'louisiana'}"
+80,"United States Bankruptcy Court, D. Maine",meb,{'maine'}
+81,"United States Bankruptcy Court, D. Maryland",mdb,{'maryland'}
+82,"United States Bankruptcy Court, D. Massachusetts",mab,{'massachusetts'}
+83,"United States Bankruptcy Court, E.D. Michigan",mieb,"{'eastern', 'michigan'}"
+84,"United States Bankruptcy Court, W.D. Michigan",miwb,"{'western', 'michigan'}"
+85,"United States Bankruptcy Court, D. Minnesota",mnb,{'minnesota'}
+86,"United States Bankruptcy Court, N.D. Mississippi",msnb,"{'mississippi', 'northern'}"
+87,"United States Bankruptcy Court, S.D. Mississippi",mssb,"{'mississippi', 'southern'}"
+88,"United States Bankruptcy Court, E.D. Missouri",moeb,"{'missouri', 'eastern'}"
+89,"United States Bankruptcy Court, W.D. Missouri",mowb,"{'western', 'missouri'}"
+90,"United States Bankruptcy Court, D. Montana",mtb,{'montana'}
+91,"United States Bankruptcy Court, D. Nebraska",nebraskab,{'nebraska'}
+92,"United States Bankruptcy Court, D. Nevada",nvb,{'nevada'}
+93,"United States Bankruptcy Court, D. New Hampshire",nhb,"{'new', 'hampshire'}"
+94,"United States Bankruptcy Court, D. New Jersey",njb,"{'new', 'jersey'}"
+95,"United States Bankruptcy Court, D. New Mexico",nmb,"{'new', 'mexico'}"
+96,"United States Bankruptcy Court, E.D. New York",nyeb,"{'new', 'eastern', 'york'}"
+97,"United States Bankruptcy Court, N.D. New York",nynb,"{'new', 'northern', 'york'}"
+98,"United States Bankruptcy Court, S.D. New York",nysb,"{'new', 'southern', 'york'}"
+99,"United States Bankruptcy Court, W.D. New York",nywb,"{'new', 'western', 'york'}"
+100,"United States Bankruptcy Court, E.D. North Carolina",nceb,"{'north', 'carolina', 'eastern'}"
+101,"United States Bankruptcy Court, M.D. North Carolina",ncmb,"{'north', 'carolina', 'middle'}"
+102,"United States Bankruptcy Court, W.D. North Carolina",ncwb,"{'western', 'north', 'carolina'}"
+103,"United States Bankruptcy Court, D. North Dakota",ndb,"{'north', 'dakota'}"
+104,"United States Bankruptcy Court, N.D. Ohio",ohnb,"{'ohio', 'northern'}"
+105,"United States Bankruptcy Court, S.D. Ohio",ohsb,"{'ohio', 'southern'}"
+106,"United States Bankruptcy Court, E.D. Oklahoma",okeb,"{'oklahoma', 'eastern'}"
+107,"United States Bankruptcy Court, N.D. Oklahoma",oknb,"{'oklahoma', 'northern'}"
+108,"United States Bankruptcy Court, W.D. Oklahoma",okwb,"{'western', 'oklahoma'}"
+109,"United States Bankruptcy Court, D. Oregon",orb,{'oregon'}
+110,"United States Bankruptcy Court, E.D. Pennsylvania",paeb,"{'pennsylvania', 'eastern'}"
+111,"United States Bankruptcy Court, M.D. Pennsylvania",pamb,"{'pennsylvania', 'middle'}"
+112,"United States Bankruptcy Court, W.D. Pennsylvania",pawb,"{'pennsylvania', 'western'}"
+113,"United States Bankruptcy Court, D. Rhode Island",rib,"{'rhode', 'island'}"
+114,"United States Bankruptcy Court, D. South Carolina",scb,"{'carolina', 'south'}"
+115,"United States Bankruptcy Court, D. South Dakota",sdb,"{'dakota', 'south'}"
+116,"United States Bankruptcy Court, E.D. Tennessee",tneb,"{'tennessee', 'eastern'}"
+117,"United States Bankruptcy Court, M.D. Tennessee",tnmb,"{'tennessee', 'middle'}"
+118,"United States Bankruptcy Court, W.D. Tennessee",tnwb,"{'western', 'tennessee'}"
+119,"United States Bankruptcy Court, D. Tennessee",tennesseeb,{'tennessee'}
+120,"United States Bankruptcy Court, E.D. Texas",txeb,"{'texas', 'eastern'}"
+121,"United States Bankruptcy Court, N.D. Texas",txnb,"{'texas', 'northern'}"
+122,"United States Bankruptcy Court, S.D. Texas",txsb,"{'texas', 'southern'}"
+124,"United States Bankruptcy Court, D. Utah",utb,{'utah'}
+125,"United States Bankruptcy Court, D. Vermont",vtb,{'vermont'}
+126,"United States Bankruptcy Court, E.D. Virginia",vaeb,"{'virginia', 'eastern'}"
+127,"United States Bankruptcy Court, W.D. Virginia",vawb,"{'western', 'virginia'}"
+128,"United States Bankruptcy Court, E.D. Washington",waeb,"{'eastern', 'washington'}"
+129,"United States Bankruptcy Court, W.D. Washington",wawb,"{'western', 'washington'}"
+131,"United States Bankruptcy Court, S.D. West Virginia",wvsb,"{'west', 'virginia', 'southern'}"
+132,"United States Bankruptcy Court, E.D. Wisconsin",wieb,"{'eastern', 'wisconsin'}"
+133,"United States Bankruptcy Court, W.D. Wisconsin",wiwb,"{'western', 'wisconsin'}"
+134,"United States Bankruptcy Court, D. Wyoming",wyb,{'wyoming'}
+135,"United States Bankruptcy Court, D. Guam",gub,{'guam'}
+136,"United States Bankruptcy Court, Northern Mariana Islands",nmib,"{'islands', 'mariana', 'northern'}"
+137,"United States Bankruptcy Court, D. Puerto Rico",prb,"{'puerto', 'rico'}"
+138,"United States Bankruptcy Court, D. Virgin Islands",vib,"{'virgin', 'islands'}"
